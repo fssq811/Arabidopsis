@@ -1,2 +1,4 @@
 # Arabidopsis
 Mapping the transgenerational genetic architecture of Arabidopsis thaliana under the influence of light intensity
+To facilitate the description of phenotypes within each group, we employed the notation 'H/L' to represent high and low light conditions, and '1/2' to signify the first- and second-generation populations. For instance, 'H1' denotes a first-generation population subjected to high light treatment, 'H1H2' designates a second-generation population derived from a first-generation population exposed to high light treatment, with the second-generation population similarly grown under high light conditions. Similarly, 'H1L2' signifies a second-generation population originating from a first-generation population exposed to high light treatment, but with the second-generation population cultivated under low light conditions.
+1/2代表代际；H/L代表高低光，H1：一代高光群体；H1H2：一代高光处理下产生的子代同样用高光处理。
